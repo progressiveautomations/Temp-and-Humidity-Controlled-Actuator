@@ -1,4 +1,8 @@
 # Temp-and-Humidity-Controlled-Actuator
+DHT11 Sensor capable of:
+20-80% humidity readings with 5% accuracy
+0-50°C temperature readings ±2°C accuracy
+
 Required Components:
 12VDC Power Supply (https://www.progressiveautomations.com/products/ps-20-12)
 Arduino Uno (https://www.progressiveautomations.com/products/lc-066)
